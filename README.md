@@ -1,0 +1,1 @@
+# Just launch the file index.html in your favorite brownser to play.
